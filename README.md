@@ -4,7 +4,7 @@
 This project aims to develop a machine learning model and deploy it as a user-friendly web application to predict the resale prices of flats in Singapore. The model is based on historical data from the Singapore Housing and Development Board (HDB) and helps potential buyers and sellers estimate the resale value of a flat, considering various factors such as location, flat type, floor area, and lease duration.
 Motivation
 The resale flat market in Singapore is highly competitive and dynamic, with multiple factors influencing the prices. Estimating the resale value can be challenging for both buyers and sellers. This project addresses this challenge by developing a predictive model that estimates resale prices, providing valuable insights to users and aiding in making informed decisions.
-
+ 
 ## Scope of the Project:
 The project involves the following key tasks:
 1.	Data Collection and Preprocessing:
